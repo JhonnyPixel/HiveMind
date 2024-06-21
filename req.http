@@ -1,0 +1,14 @@
+
+
+
+GET http://localhost:3000/idea/controversial
+
+#########
+
+POST http://localhost:3000/signup
+Content-Type: "application/json"
+
+{
+  "login": "kekko.trotti",
+  "password": "123",
+}
